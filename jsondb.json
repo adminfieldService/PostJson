@@ -1,1 +1,22 @@
 
+{"JSONFile": {
+    "userid": "dummy1@tester.id",
+    "alamat": "villa jatirasa d20 No.03",
+    "jenis_kelamin": "perempuan",
+    "kecamatan": "jatiasih",
+    "kelurahan": "jatirasa",
+    "kode-pos": "-",
+    "kota": "jakarta",
+    "nama": "tester meirlita",
+    "tlp": "0813186964374",
+    "tgl_lahir": "01-05-1991",
+    "provinci": "dki jakarta",
+    "idktp": "31750141059100011",
+    "tmp_lahir": "jakarta",
+    "email":"fieldservicea017@gmail.com",
+    "npwp": "-",
+    "nama_admin":"",
+    "no_ref":"",
+    "default_ttd":"true"
+  }
+}
